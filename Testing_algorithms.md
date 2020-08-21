@@ -1,0 +1,22 @@
+To print grade obtained by a student
+
+Alogorithm:
+
+Step1:Start inputing marks and start grading
+Step2:Input first subject as DM
+Step3:Input second subject as DS
+Step4:Input third subject as BEE
+Step5:Avg:=(DM+DS+BEE)/3
+Step6:if(Avg>=75) then  
+          Do
+          print('A grade')
+      elif(Avg>=65 and Avg<75)  then
+          Do
+          print('B grade')
+      elif(Avg>=40 and Avg<65) then
+          Do
+          print('C grade')
+      elif(Avg<40) then
+          Do
+          print('F grade')
+Step7:End grading
